@@ -1,1 +1,1 @@
-repo to play with pull request templates
+This repo has been setup to experiment with pull request templates
